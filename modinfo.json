@@ -1,0 +1,10 @@
+[
+  {
+     "type": "MOD_INFO",
+     "ident": "StatsThroughKills",
+     "name": "Stats through Kills",
+     "description": "Allows you to increase your stats as you kill more creatures.",
+     "category": "rebalance",
+     "dependencies":["dda"]
+  }
+]
